@@ -9,9 +9,7 @@ body{
 	background-color:#fff !important;
 	border-radius: 0px !important;
 }
-img{
-	margin:auto;
-}
+
 .spritecss {
 	background: url('http://www.byggopp.net/wp-content/uploads/2014/04/html-css-js.png') no-repeat -410px -85px;
 	width: 175px;
@@ -37,5 +35,13 @@ img{
 	background: url('http://blogs.ptutorial.com/wp-content/uploads/2015/08/logo_php5.png') no-repeat;
 	width: 176px;
 	height: 248px;
+	display: block;
+}
+.logo{
+	margin:3px 8px 3px 5px !important;
+	background: url('http://www.byggopp.net/wp-content/uploads/2014/04/html-css-js.png') no-repeat -103px -33px;
+	background-size: 150px 88px;
+	width: 44px;
+	height: 50px;
 	display: block;
 }
