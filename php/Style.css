@@ -1,0 +1,41 @@
+@CHARSET "Utf-8";
+
+body{
+	background-color:#ebebeb;
+}
+
+.jumbotron{
+	margin-top: 100px;
+	background-color:#fff !important;
+	border-radius: 0px !important;
+}
+img{
+	margin:auto;
+}
+.spritecss {
+	background: url('http://www.byggopp.net/wp-content/uploads/2014/04/html-css-js.png') no-repeat -410px -85px;
+	width: 175px;
+	height: 248px;
+	display: block;
+}
+
+.spritehtml {
+	background: url('http://www.byggopp.net/wp-content/uploads/2014/04/html-css-js.png') no-repeat -15px -85px;
+	width: 175px;
+	height: 248px;
+	display: block;
+}
+
+.spritejs {
+	background: url('http://www.byggopp.net/wp-content/uploads/2014/04/html-css-js.png') no-repeat -212px -12px;
+	width: 176px;
+	height: 248px;
+	display: block;
+}
+
+.spritephp {
+	background: url('http://blogs.ptutorial.com/wp-content/uploads/2015/08/logo_php5.png') no-repeat;
+	width: 176px;
+	height: 248px;
+	display: block;
+}
