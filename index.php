@@ -26,8 +26,8 @@
 </div>
 <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="10"
-  aria-valuemin="0" aria-valuemax="400" style="width:10%">
-    <span>10% Completo</span>
+  aria-valuemin="0" aria-valuemax="400" style="width:30%">
+    <span>30% Completo</span>
 </div>
 </div>
 </div>

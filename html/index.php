@@ -11,10 +11,41 @@
 <!-- Latest compiled JavaScript -->
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
-<link rel="stylesheet" type="text/css" href="Style.css">
-<title>Biblioteca Css</title>
+<link rel="stylesheet" type="text/css" href="/lib/Style.css">
+<title>Biblioteca Html</title>
+<style>
+
+</style>
+
 </head>
     <body>
+    <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand logoHtml" href="#"></a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="/lib/index.php">Inicio</a></li>
+
+      <li><a href="#"></a></li> 
+    </ul>
+  </div>
+</nav>
+    
+    <div class="container-fluid">
+    <div class="row">
+    <h1 class="text-center">Biblioteca Html</h1>
+    	<div class="col-md-offset-2 col-md-4">
+    	<h3>Testes</h3>
+ 			<a href="chart.php" class="btn btn-primary">Gráfico</a>   
+    	</div>
+    <div class="col-md-4">
+    <h3>Atributos</h3>
+    <a href="chart.php" class="btn btn-primary">Teste</a>
+    </div>
+
+    </div>
+    </div>
     </body>
   
 </html>

@@ -39,3 +39,37 @@ img{
 	height: 248px;
 	display: block;
 }
+.logoCss{
+	margin:3px 8px 3px 5px !important;
+	background: url('http://www.byggopp.net/wp-content/uploads/2014/04/html-css-js.png') no-repeat -103px -33px;
+	background-size: 150px 88px;
+	width: 44px;
+	height: 50px;
+	display: block;
+}
+.logoPhp{
+	margin:3px 8px 3px 5px !important;
+	background: url('http://blogs.ptutorial.com/wp-content/uploads/2015/08/logo_php5.png') no-repeat 0px -12px;
+	background-size: 44px 60px;
+	width: 44px;
+	height: 50px;
+	display: block;
+}
+
+.logoJs{
+	margin:3px 8px 3px 5px !important;
+	background: url('http://www.byggopp.net/wp-content/uploads/2014/04/html-css-js.png') no-repeat -53px -15px;
+	background-size: 150px 88px;
+	width: 44px;
+	height: 50px;
+	display: block;
+}
+
+.logoHtml{
+	margin:3px 8px 3px 5px !important;
+	background: url('http://www.byggopp.net/wp-content/uploads/2014/04/html-css-js.png') no-repeat -4px -33px;
+	background-size: 150px 88px;
+	width: 44px;
+	height: 50px;
+	display: block;
+}
