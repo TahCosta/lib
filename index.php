@@ -19,6 +19,8 @@
 	<div class="jumbotron">
 	<h3 class="text-center">Progresso de construção da Biblioteca de Linguagens</h3>
 		<div class="row">
+                    
+                    
 	 <div class="col-md-offset-2 col-md-2"><a class="spritehtml" href="html/index.php"></a></div>
 	<div class="col-md-2"><a class="spritecss" href="css/index.php"></a></div>
 	<div class="col-md-2"><a class="spritejs" href="javascript/index.php"></a></div>
